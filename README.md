@@ -1,8 +1,8 @@
-# GESTION DE PRODUCTOS CON SPRING SECURITY
+# SPRING SECURITY
 
 ## Description
 
-Spring Boot backend for inventario-insdrums-web.
+Spring Boot backend for product management insdrums.
 
 ## Installation
 
